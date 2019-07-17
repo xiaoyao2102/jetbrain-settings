@@ -9,6 +9,9 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="XDebugger.CopyWatch" />
