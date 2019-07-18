@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>53</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -62,7 +62,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>54</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -71,6 +71,14 @@
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move Right">
+        <Item>
+          <IdeaActionID>MoveTabRight</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+R'</ShortCut>
+          <Description>Move Right</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
