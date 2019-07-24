@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>107</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -57,12 +57,20 @@
           <Count>49</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Hierarchy">
+        <Item>
+          <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
+          <ShortCut>'Alt+8'</ShortCut>
+          <Description>Hierarchy</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Implementation(s)">
         <Item>
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>97</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -174,7 +182,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'DubboServiceSt....main()'</Description>
-          <Count>27</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'QueryONSMessage.main()'">
