@@ -13,6 +13,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="Runner.CloseOtherViews">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="SendEOF" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
