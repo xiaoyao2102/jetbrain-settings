@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>143</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -30,7 +30,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -62,7 +62,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>60</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>132</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -223,6 +223,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'QueryONSMessage.main()'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Test.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Test.main()'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'TestCaiexFixtureService'">
