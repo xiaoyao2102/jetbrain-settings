@@ -17,6 +17,9 @@
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
