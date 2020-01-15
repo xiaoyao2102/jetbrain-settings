@@ -1,5 +1,10 @@
 <code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <codeStyleSettings language="JAVA">
+    <indentOptions>
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="yaml">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
